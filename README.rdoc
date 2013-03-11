@@ -19,7 +19,7 @@ all the development.
 
 * install the plugin
 
-    ./script/plugin install git://github.com/astrails/clicktale.git
+    rails plugin install git://github.com/astrails/clicktale.git
 
 * head to http://clicktale.com and signup for a free account. Or not free. Your
   choice.
